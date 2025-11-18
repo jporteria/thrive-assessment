@@ -59,7 +59,7 @@ body{
 	border: 1px solid #e6eefc;
 	border-radius:8px;
 	padding:14px;
-	min-height:64px;
+	/* min-height:64px; */
 	color:#111827;
 	font-size:14px;
 	line-height:1.4;
