@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/netlify/*"
+  to = "https://www.google.com/search?q=:splat"
+  status = 200
+  force = true
