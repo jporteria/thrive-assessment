@@ -59,15 +59,11 @@ body{
 	border: 1px solid #e6eefc;
 	border-radius:8px;
 	padding:14px;
-	/* min-height:64px; */
 	color:#111827;
 	font-size:14px;
 	line-height:1.4;
-	/* not editable/clickable for now */
 	cursor:default;
 }
-
-/* make everything centered on small screens */
 @media (max-width:640px){
 	.card{padding:16px}
 	.header{padding:18px}
